@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+    <string name="enter_number_1">Enter number 1</string>
+    <string name="enter_number_2">Enter number 2</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="quotient">QUOTIENT</string>
+    <string name="remainder">REMAINDER</string>
+    <string name="calculate">Calculate</string>
+    <string name="textview2">TextView2</string>
+</resources>
